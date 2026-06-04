@@ -58,7 +58,7 @@ AWS • Azure
 
 📫 Contact
 
-Email: your-email@example.com
+Email: Rakeshsharma19814680@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/rakesh-sharma-v-49b114320?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
