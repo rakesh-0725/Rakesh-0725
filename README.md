@@ -38,9 +38,6 @@ Cloud
 
 AWS • Azure
 
-🏆 Certifications
-
-- Add completed certifications here
 
 📈 Learning Journey
 
@@ -50,11 +47,8 @@ AWS • Azure
 - Build 10+ Full Stack Projects
 - Learn Docker & AWS
 - Contribute to Open Source
-- Solve 300+ DSA Problems
 
-📊 GitHub Stats
 
-(Add GitHub Readme Stats)
 
 📫 Contact
 
