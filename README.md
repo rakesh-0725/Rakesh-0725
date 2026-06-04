@@ -1,16 +1,67 @@
-## Hi there 👋
+Hi 👋 I'm Rakesh Sharma
 
-<!--
-**rakesh-0725/Rakesh-0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+- 🌱 Learning Full Stack Development
+- 💻 Building projects with React, Node.js, Flask and Spring Boot
+- ☁️ Exploring AWS and Azure
+- 📚 Improving Data Structures and Algorithms
+- 🎯 Goal: Become a Software Engineer in 2026
+
+🛠 Tech Stack
+
+Frontend
+
+HTML • CSS • JavaScript • Bootstrap • React.js
+
+Backend
+
+Node.js • Flask • Spring Boot
+
+Programming Languages
+
+Python • Java • JavaScript
+
+Database
+
+MySQL
+
+DevOps & Tools
+
+Git • GitHub • Docker
+
+Cloud
+
+AWS • Azure
+
+🏆 Certifications
+
+- Add completed certifications here
+
+📈 Learning Journey
+
+2026 Goals:
+
+- Master React
+- Build 10+ Full Stack Projects
+- Learn Docker & AWS
+- Contribute to Open Source
+- Solve 300+ DSA Problems
+
+📊 GitHub Stats
+
+(Add GitHub Readme Stats)
+
+📫 Contact
+
+Email: your-email@example.com
+
+LinkedIn: https://www.linkedin.com/in/rakesh-sharma-v-49b114320?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+🔥 Fun Fact
+
+I love building software and learning new technologies every day.
